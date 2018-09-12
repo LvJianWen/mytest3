@@ -8,5 +8,7 @@ public class User {
         System.out.println("我是一个git测试项目");
 
         System.out.println("我修改了git测试项目");
+
+        System.out.println("我第二次修改了git测试项目");
     }
 }

@@ -1,4 +1,4 @@
-package com.itheima.test;
+﻿package com.itheima.test;
 
 import org.junit.Test;
 
@@ -10,5 +10,7 @@ public class User {
         System.out.println("我修改了git测试项目");
 
         System.out.println("我第二次修改了git测试项目");
+
+System.out.println("我手动提交了git测试项目");
     }
 }
